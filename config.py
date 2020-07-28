@@ -1,4 +1,2 @@
 # Enter your API key
-gkey = ""
-census_key = ""
-cdckey = ""
+gkey = "Your Key Here!"
